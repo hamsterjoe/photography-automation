@@ -1,4 +1,8 @@
 # Competition Photo Workflow — Setup & Usage Guide
+This automated python workflow assists and automates the manual tasks required during a competition or event for the photohgrapher, potentially eliminating the need of an assistant while further improving efficiency output. This is built around a certain use case, but not solely limited to it : 
+
+A dance competition involving multiple rounds lasting around 3-5 minutes each, with a 2-3 minute intermission between rounds. The photographer previously has to swap out the SD cards every "X" number of rounds → duplicate the images as a backup → create contestant copies → split contestant pictures → compress & watermark → upload to Google Drive → Harddrive backup.
+
 
 ## What this does
 Fully automates the competition photography pipeline:
